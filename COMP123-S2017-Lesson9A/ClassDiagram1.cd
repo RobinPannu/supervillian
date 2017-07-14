@@ -43,5 +43,12 @@
       <FileName>IHasKarma.cs</FileName>
     </TypeIdentifier>
   </Interface>
+  <Interface Name="COMP123_S2017_Lesson9A.IHasMalice">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHasMalice.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
