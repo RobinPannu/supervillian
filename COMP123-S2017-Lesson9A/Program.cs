@@ -29,7 +29,7 @@ namespace COMP123_S2017_Lesson9A
             superVillian.Powers.Add(new Power("Flying", 40));
             superVillian.Powers.Add(new Power("Wind Blowing", 30));
             Console.WriteLine(superVillian.ToString());
-            Console.WriteLine("Karma: " + superHero.Karma);
+            Console.WriteLine("Malice: " + superVillian.Malice);
 
         }
     }
