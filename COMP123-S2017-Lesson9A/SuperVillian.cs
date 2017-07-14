@@ -9,7 +9,7 @@ using System.Text;
  * Date: July 13, 2017
  * Description: This is the SuperVillian class which inherits from the SuperHuman class
  * and implement the IHasMalice Interface 
- * Version: 0.1 - Created the SuperVillian class
+ * Version: 0.2 - Modified COnstructor to take Malice value
  */
 namespace COMP123_S2017_Lesson9A
 {
@@ -44,10 +44,10 @@ namespace COMP123_S2017_Lesson9A
         /// I t takes one argument - name (string)
         /// </summary>
         /// <param name="name"></param>
-        public SuperVillian(string name)
+        public SuperVillian(string name,int malice)
             : base(name)
         {
-
+            this.Malice = malice;
         }
         //PRIVATE METHODS 
 

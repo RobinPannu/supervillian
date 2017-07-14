@@ -37,7 +37,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="COMP123_S2017_Lesson9A.SuperVillian">
-    <Position X="12.25" Y="3" Width="1.5" />
+    <Position X="3.25" Y="5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
       <FileName>SuperVillian.cs</FileName>
